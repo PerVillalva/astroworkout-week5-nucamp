@@ -25,11 +25,11 @@ const Hero = (props: Props) => {
                         A workout planner from another galaxy.
                     </h2>
                     <p className="lead">
-                        Quickly design and customize responsive mobile-first
-                        sites with Bootstrap, the world’s most popular front-end
-                        open source toolkit, featuring Sass variables and
-                        mixins, responsive grid system, extensive prebuilt
-                        components, and powerful JavaScript plugins.
+                        Lorem ipsum dolor sit amet, consectetur adipiscing elit,
+                        sed do eiusmod tempor incididunt ut labore et dolore
+                        magna aliqua. Ut enim ad minim veniam, quis nostrud
+                        exercitation ullamco laboris nisi ut aliquip ex ea
+                        commodo consequat.
                     </p>
                     <div className="d-grid gap-2 d-md-flex justify-content-md-start">
                         <a
